@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A Web developer from India 🇮🇳 . I'm coding since 2019. I love to learn new technologies. I'm also a Linux user.</h3>
+<h3 align="center">A Web developer from India 🇮🇳 . I'm coding since 2019. I love to learn new technologies. I'm also a Linux user. In free time i love to read books 📚</h3>
 
 <h4 align="left">Languages and Tools:</h4>
 <br/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-java-ec2025?style=for-the-badge&logo=java" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-tailwindcss-222945?style=for-the-badge&logo=tailwindcss" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-5f408a?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://img.shields.io/badge/-Reactjs-292c33?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/-Reactjs-292c33?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Express-292c33?style=for-the-badge&logo=express" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Nodejs-404137?style=for-the-badge&logo=node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
