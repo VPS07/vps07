@@ -37,5 +37,4 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vps07&show_icons=true&theme=tokyonight&locale=en" alt="vps07" width="48%"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vps07&theme=tokyonight" alt="vps07" width="48%"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vps07&show_icons=true&theme=tokyonight&locale=en" alt="vps07" width="48%"/></p>
