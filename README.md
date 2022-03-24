@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vps07&show_icons=true&theme=tokyonight&locale=en" alt="vps07" width="80%"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vps07&show_icons=true&theme=tokyonight&locale=en" alt="vps07" width="60%"/></p>
