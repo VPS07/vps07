@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-C++-224373?style=for-the-badge&logo=cplusplus" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://img.shields.io/badge/-C++-224373?style=for-the-badge&logo=cplusplus" />&nbsp;&nbsp;&nbsp;&nbsp; -->
 <img src="https://img.shields.io/badge/-java-ec2025?style=for-the-badge&logo=java" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-tailwindcss-222945?style=for-the-badge&logo=tailwindcss" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-5f408a?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
