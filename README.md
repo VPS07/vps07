@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,6 +29,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Reactjs-292c33?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Express-292c33?style=for-the-badge&logo=express" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Nodejs-404137?style=for-the-badge&logo=node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
