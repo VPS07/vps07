@@ -1,19 +1,12 @@
-<!--
-**VPS07/vps07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Vivek</h1>
+<h4 align="center">A Web developer from India 🇮🇳 . I'm coding since 2019. I love to learn new technologies. I'm a Linux user. In free time i love to read books 📚 and listen music 🎵</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👨‍🎓 I’m currently a student
+- 🌱 I’m currently learning DSA
+<!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A Web developer from India 🇮🇳 . I'm coding since 2019. I love to learn new technologies. I'm also a Linux user. In free time i love to read books 📚</h3>
+--!>
 
 <h4 align="left">Languages and Tools:</h4>
 <br/>
@@ -40,4 +33,4 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vps07&show_icons=true&theme=tokyonight&locale=en" alt="vps07" width="60%"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vps07&show_icons=true&theme=tokyonight&locale=en" alt="vps07" width="50%"/></p>
