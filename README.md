@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="45px"/> , I'm Vivek</h1>
-<h4 align="center">A Full-stack developer from India 🇮🇳 . I'm coding since 2019. I love to learn new technologies. I'm a Linux user. In free time i love to read books 📚 and listen music 🎵</h4>
+<h4 align="center">A Full-stack developer from India 🇮🇳 . I love to learn new technologies. I'm a Linux user. In free time i love to read books 📚 and listen music 🎵</h4>
 
 - 👨‍🎓 I’m currently a student
 - 🌱 I’m currently learning DSA
