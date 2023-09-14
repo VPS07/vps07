@@ -1,15 +1,16 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="45px"/> , I'm Vivek</h1>
-<h4 align="center">A Full-stack developer from India 🇮🇳 . I love to learn new technologies. I'm a Linux user. In free time i love to read books 📚 and listen music 🎵</h4>
 
-- 👨‍🎓 I’m currently a student
-- 🌱 I’m currently learning DSA
-<!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+<div align="center">
+   <h3> 👩‍💻 A Full-stack developer from India 🇮🇳 </h3>
+</div>
 
-<h4 align="left">Languages and Tools:</h4>
 <br/>
+
+- 🌱 I’m currently learning DSA
+- 💛 I love to learn new technologies
+- 🐧 I'm a Linux user
+
+<h2 align="left">🛠️ Languages and Tools:</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,6 +33,14 @@
 <img src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr/>
+<br/>
+<br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vps07&show_icons=true&theme=tokyonight&locale=en" alt="vps07" width="50%"/></p>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=vps07&show_icons=true&rank_icon=github&theme=tokyonight&locale=en" alt="vps07" width="43%"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vps07&layout=compact&theme=tokyonight&count_private=true" style="width: 38%;">
+ </div>
+ 
+ <br/>
+<!-- <a href="https://visitorbadge.io/status?path=vps07" align="center"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=vps07&countColor=%23dce775&style=flat" /></a> --!>
+<!-- <p align="center"><img src="https://api.visitorbadge.io/api/visitors?path=vps07&countColor=%23dce775&style=flat" /></p> --!>
